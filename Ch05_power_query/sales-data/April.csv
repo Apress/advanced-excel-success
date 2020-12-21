@@ -1,0 +1,269 @@
+Date,Product,Region,Amount
+20/04/2020,Orange Juice,Central, 277.15 
+11/04/2020,Broccoli,North, 83.00 
+14/04/2020,Cucumber,Central, 192.21 
+20/04/2020,Orange Juice,Central, 91.69 
+13/04/2020,Sandwiches,North, 191.36 
+01/04/2020,Orange Juice,South, 120.10 
+02/04/2020,Cucumber,South, 178.64 
+02/04/2020,Broccoli,East, 23.74 
+15/04/2020,Cucumber,South, 372.78 
+25/04/2020,Tomatoes,North, 116.11 
+10/04/2020,Pizza,North, 279.49 
+18/04/2020,Tomatoes,South West, 244.66 
+11/04/2020,Cucumber,South West, 109.24 
+09/04/2020,Chicken,South, 106.80 
+28/04/2020,Tomatoes,South West, 153.09 
+27/04/2020,Broccoli,South, 176.71 
+30/04/2020,Green Tea,South West, 170.79 
+04/04/2020,Pizza,East, 157.79 
+08/04/2020,Orange Juice,North, 372.84 
+28/04/2020,Chicken,South West, 174.46 
+07/04/2020,Chicken,East, 362.84 
+30/04/2020,Broccoli,Central, 118.79 
+27/04/2020,Beef,South, 154.90 
+10/04/2020,Pizza,South West, 88.00 
+08/04/2020,Pizza,South, 183.27 
+28/04/2020,Sandwiches,South, 149.37 
+19/04/2020,Broccoli,Central, 162.34 
+20/04/2020,Green Tea,Central, 64.10 
+20/04/2020,Green Tea,South West, 154.81 
+08/04/2020,Beef,East, 142.89 
+16/04/2020,Cucumber,East, 196.73 
+04/04/2020,Broccoli,Central, 184.81 
+17/04/2020,Pizza,East, 13.98 
+04/04/2020,Broccoli,Central, 205.22 
+30/04/2020,Broccoli,North, 174.65 
+24/04/2020,Green Tea,South, 72.09 
+13/04/2020,Broccoli,South, 224.66 
+11/04/2020,Sandwiches,South West, 61.89 
+29/04/2020,Pizza,Central, 370.54 
+18/04/2020,Chicken,North, 54.03 
+17/04/2020,Chicken,South West, 153.59 
+30/04/2020,Pizza,South, 250.16 
+05/04/2020,Green Tea,South, 66.43 
+18/04/2020,Pizza,East, 310.89 
+11/04/2020,Beef,South, 112.60 
+02/04/2020,Orange Juice,South West, 64.12 
+11/04/2020,Green Tea,Central, 83.23 
+09/04/2020,Orange Juice,East, 264.20 
+30/04/2020,Chicken,South West, 347.49 
+25/04/2020,Orange Juice,East, 127.44 
+07/04/2020,Beef,South West, 57.35 
+15/04/2020,Sandwiches,Central, 164.70 
+13/04/2020,Broccoli,South West, 365.70 
+28/04/2020,Broccoli,North, 46.10 
+20/04/2020,Sandwiches,North, 339.45 
+27/04/2020,Sandwiches,North, 266.67 
+06/04/2020,Green Tea,East, 240.38 
+24/04/2020,Sandwiches,East, 169.98 
+10/04/2020,Broccoli,North, 34.99 
+22/04/2020,Orange Juice,North, 85.24 
+08/04/2020,Pizza,Central, 187.92 
+10/04/2020,Beef,South West, 196.74 
+10/04/2020,Green Tea,South West, 248.59 
+20/04/2020,Chicken,North, 48.54 
+06/04/2020,Chicken,Central, 163.79 
+12/04/2020,Sandwiches,North, 280.52 
+11/04/2020,Tomatoes,South, 184.90 
+06/04/2020,Broccoli,North, 80.13 
+28/04/2020,Broccoli,South, 269.29 
+24/04/2020,Chicken,Central, 181.80 
+17/04/2020,Sandwiches,South, 173.76 
+16/04/2020,Orange Juice,East, 363.87 
+23/04/2020,Cucumber,South West, 260.46 
+08/04/2020,Pizza,North, 241.54 
+05/04/2020,Green Tea,South West, 184.68 
+15/04/2020,Green Tea,South, 341.51 
+29/04/2020,Cucumber,East, 268.53 
+21/04/2020,Green Tea,Central, 198.78 
+11/04/2020,Chicken,South West, 162.29 
+28/04/2020,Chicken,East, 302.40 
+09/04/2020,Green Tea,South West, 384.40 
+16/04/2020,Pizza,North, 243.32 
+22/04/2020,Tomatoes,Central, 272.13 
+28/04/2020,Sandwiches,East, 150.89 
+10/04/2020,Beef,South, 391.94 
+01/04/2020,Beef,Central, 373.42 
+21/04/2020,Tomatoes,South, 337.23 
+06/04/2020,Green Tea,Central, 27.12 
+15/04/2020,Orange Juice,South, 342.31 
+19/04/2020,Tomatoes,South, 118.92 
+18/04/2020,Broccoli,East, 125.85 
+10/04/2020,Sandwiches,North, 285.00 
+11/04/2020,Green Tea,East, 204.24 
+18/04/2020,Tomatoes,Central, 323.98 
+24/04/2020,Beef,South West, 153.83 
+22/04/2020,Sandwiches,North, 98.27 
+28/04/2020,Pizza,South West, 321.69 
+04/04/2020,Green Tea,South West, 260.80 
+29/04/2020,Cucumber,South, 58.44 
+23/04/2020,Chicken,South West, 391.06 
+26/04/2020,Sandwiches,East, 188.17 
+18/04/2020,Orange Juice,South West, 217.35 
+17/04/2020,Green Tea,Central, 54.49 
+08/04/2020,Orange Juice,East, 187.25 
+14/04/2020,Tomatoes,East, 144.42 
+14/04/2020,Broccoli,Central, 338.81 
+27/04/2020,Green Tea,South, 161.27 
+17/04/2020,Cucumber,South, 71.85 
+24/04/2020,Green Tea,North, 359.80 
+28/04/2020,Tomatoes,South, 256.46 
+11/04/2020,Broccoli,East, 162.64 
+03/04/2020,Beef,North, 43.04 
+18/04/2020,Broccoli,South, 359.54 
+30/04/2020,Cucumber,North, 54.40 
+03/04/2020,Broccoli,South, 376.82 
+27/04/2020,Broccoli,South West, 243.76 
+18/04/2020,Chicken,North, 24.44 
+16/04/2020,Sandwiches,Central, 82.12 
+07/04/2020,Sandwiches,Central, 156.57 
+21/04/2020,Sandwiches,East, 209.19 
+04/04/2020,Beef,South, 21.28 
+13/04/2020,Orange Juice,South, 268.91 
+20/04/2020,Cucumber,South West, 56.14 
+01/04/2020,Chicken,East, 341.65 
+12/04/2020,Chicken,South West, 391.01 
+11/04/2020,Tomatoes,South, 391.58 
+26/04/2020,Green Tea,North, 79.95 
+19/04/2020,Beef,Central, 367.72 
+26/04/2020,Orange Juice,South West, 310.26 
+30/04/2020,Cucumber,South West, 280.73 
+14/04/2020,Cucumber,Central, 91.93 
+01/04/2020,Cucumber,East, 225.07 
+08/04/2020,Pizza,North, 145.06 
+03/04/2020,Cucumber,North, 36.24 
+26/04/2020,Chicken,Central, 109.38 
+22/04/2020,Chicken,Central, 89.22 
+13/04/2020,Beef,Central, 272.96 
+17/04/2020,Cucumber,Central, 36.75 
+02/04/2020,Pizza,South West, 132.14 
+08/04/2020,Cucumber,North, 234.33 
+27/04/2020,Chicken,East, 261.31 
+07/04/2020,Beef,South, 135.30 
+19/04/2020,Broccoli,North, 40.32 
+27/04/2020,Cucumber,East, 13.09 
+15/04/2020,Beef,Central, 258.21 
+30/04/2020,Pizza,South, 98.09 
+17/04/2020,Cucumber,South, 263.25 
+27/04/2020,Cucumber,Central, 202.52 
+04/04/2020,Cucumber,Central, 60.28 
+21/04/2020,Tomatoes,North, 152.76 
+08/04/2020,Tomatoes,East, 363.46 
+04/04/2020,Broccoli,North, 215.60 
+02/04/2020,Orange Juice,South, 121.45 
+02/04/2020,Green Tea,East, 236.25 
+10/04/2020,Chicken,North, 110.16 
+07/04/2020,Orange Juice,East, 13.65 
+17/04/2020,Cucumber,South West, 384.01 
+21/04/2020,Sandwiches,South West, 37.17 
+26/04/2020,Green Tea,North, 161.75 
+10/04/2020,Cucumber,South, 154.51 
+01/04/2020,Pizza,Central, 192.50 
+15/04/2020,Cucumber,East, 108.03 
+07/04/2020,Beef,South, 332.10 
+30/04/2020,Tomatoes,South, 162.13 
+08/04/2020,Pizza,North, 201.07 
+07/04/2020,Tomatoes,North, 14.82 
+13/04/2020,Broccoli,South, 371.28 
+02/04/2020,Sandwiches,South, 286.81 
+07/04/2020,Tomatoes,East, 226.25 
+18/04/2020,Green Tea,South, 309.33 
+10/04/2020,Broccoli,East, 119.82 
+23/04/2020,Tomatoes,Central, 121.92 
+04/04/2020,Orange Juice,East, 192.14 
+21/04/2020,Green Tea,South, 165.24 
+16/04/2020,Green Tea,South, 373.02 
+30/04/2020,Chicken,Central, 192.50 
+21/04/2020,Green Tea,East, 183.33 
+27/04/2020,Green Tea,East, 234.95 
+01/04/2020,Tomatoes,North, 232.15 
+21/04/2020,Tomatoes,Central, 40.21 
+08/04/2020,Green Tea,Central, 299.70 
+03/04/2020,Green Tea,North, 167.29 
+18/04/2020,Chicken,South West, 278.21 
+04/04/2020,Cucumber,North, 155.69 
+04/04/2020,Sandwiches,Central, 349.95 
+09/04/2020,Cucumber,East, 52.79 
+13/04/2020,Beef,South, 239.42 
+17/04/2020,Beef,North, 339.86 
+18/04/2020,Orange Juice,East, 203.74 
+16/04/2020,Cucumber,Central, 233.52 
+25/04/2020,Chicken,East, 217.15 
+20/04/2020,Tomatoes,South, 67.41 
+25/04/2020,Pizza,South West, 327.09 
+29/04/2020,Orange Juice,Central, 174.16 
+14/04/2020,Tomatoes,North, 51.73 
+26/04/2020,Beef,South West, 358.02 
+29/04/2020,Pizza,North, 394.39 
+03/04/2020,Chicken,North, 137.97 
+07/04/2020,Cucumber,Central, 284.56 
+24/04/2020,Sandwiches,Central, 72.83 
+15/04/2020,Broccoli,East, 135.10 
+19/04/2020,Pizza,South West, 290.88 
+14/04/2020,Beef,South West, 229.23 
+20/04/2020,Sandwiches,South West, 180.24 
+30/04/2020,Chicken,North, 225.53 
+15/04/2020,Tomatoes,North,148.65
+29/04/2020,Beef,Central,131.99
+19/04/2020,Green Tea,Central,377.19
+09/04/2020,Broccoli,East,339.27
+15/04/2020,Sandwiches,East,109.24
+06/04/2020,Cucumber,North,352.49
+14/04/2020,Pizza,South West,281.09
+22/04/2020,Cucumber,South,399.78
+16/04/2020,Green Tea,South West,100.98
+13/04/2020,Chicken,North,366.99
+14/04/2020,Broccoli,Central,94.07
+10/04/2020,Green Tea,East,231.42
+05/04/2020,Sandwiches,East,93.09
+11/04/2020,Orange Juice,South West,91.77
+10/04/2020,Green Tea,Central,47.93
+10/04/2020,Chicken,South,386.8
+23/04/2020,Cucumber,East,50.11
+20/04/2020,Orange Juice,East,213.84
+12/04/2020,Broccoli,Central,328.4
+28/04/2020,Beef,East,235.06
+29/04/2020,Broccoli,South,334.82
+17/04/2020,Sandwiches,Central,180.08
+21/04/2020,Pizza,North,65.35
+30/04/2020,Broccoli,South West,135.51
+29/04/2020,Green Tea,East,22.97
+23/04/2020,Beef,Central,275.86
+23/04/2020,Cucumber,Central,147.71
+07/04/2020,Sandwiches,North,329.11
+26/04/2020,Pizza,South,144.18
+30/04/2020,Green Tea,South West,287.3
+12/04/2020,Orange Juice,East,10.02
+03/04/2020,Sandwiches,South,292.84
+10/04/2020,Tomatoes,North,316.65
+25/04/2020,Green Tea,East,375.48
+08/04/2020,Chicken,South West,258.1
+22/04/2020,Tomatoes,South West,95.45
+27/04/2020,Chicken,North,230.02
+13/04/2020,Green Tea,South,228.28
+02/04/2020,Beef,South West,230.6
+07/04/2020,Chicken,Central,304.04
+05/04/2020,Chicken,South,130.99
+12/04/2020,Chicken,East,286.23
+23/04/2020,Chicken,South West,266.11
+04/04/2020,Orange Juice,Central,114.13
+17/04/2020,Pizza,Central,278.52
+05/04/2020,Broccoli,Central,340.6
+01/04/2020,Sandwiches,East,263.42
+16/04/2020,Broccoli,South West,51.47
+29/04/2020,Sandwiches,South West,175.65
+11/04/2020,Cucumber,North,141.49
+27/04/2020,Green Tea,South West,183.17
+26/04/2020,Broccoli,South West,268.27
+08/04/2020,Green Tea,South West,64.56
+01/04/2020,Beef,North,179.39
+06/04/2020,Chicken,Central,90.94
+25/04/2020,Broccoli,South West,186.04
+29/04/2020,Chicken,North,239
+14/04/2020,Orange Juice,Central,210.67
+23/04/2020,Sandwiches,North,155.24
+19/04/2020,Orange Juice,South,273.54
+13/04/2020,Pizza,South,357.18
+09/04/2020,Orange Juice,South,112.79
+30/04/2020,Cucumber,North,131.97

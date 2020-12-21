@@ -1,0 +1,500 @@
+Date,Product,Region,Amount
+25/12/2020,Cucumber,South West, 349.66 
+15/12/2020,Tomatoes,South West, 172.80 
+15/12/2020,Chicken,East, 249.89 
+10/12/2020,Chicken,Central, 362.55 
+12/12/2020,Beef,East, 215.31 
+19/12/2020,Cucumber,Central, 166.25 
+05/12/2020,Green Tea,East, 126.20 
+13/12/2020,Cucumber,South West, 88.16 
+19/12/2020,Orange Juice,South, 221.12 
+29/12/2020,Chicken,Central, 328.80 
+24/12/2020,Cucumber,Central, 180.83 
+14/12/2020,Chicken,South West, 250.70 
+29/12/2020,Green Tea,East, 242.39 
+25/12/2020,Green Tea,Central, 68.42 
+16/12/2020,Broccoli,South West, 64.15 
+01/12/2020,Green Tea,North, 159.03 
+20/12/2020,Cucumber,Central, 171.84 
+17/12/2020,Cucumber,East, 241.43 
+16/12/2020,Chicken,East, 318.72 
+01/12/2020,Tomatoes,Central, 257.50 
+14/12/2020,Green Tea,South West, 140.95 
+04/12/2020,Chicken,South, 360.89 
+09/12/2020,Broccoli,Central, 215.11 
+22/12/2020,Green Tea,Central, 82.17 
+05/12/2020,Beef,South, 315.54 
+12/12/2020,Tomatoes,South West, 90.41 
+10/12/2020,Chicken,South West, 185.86 
+23/12/2020,Orange Juice,East, 345.81 
+22/12/2020,Beef,East, 280.41 
+11/12/2020,Green Tea,South West, 309.32 
+21/12/2020,Broccoli,Central, 233.77 
+18/12/2020,Chicken,North, 398.87 
+15/12/2020,Sandwiches,East, 37.60 
+26/12/2020,Beef,East, 27.89 
+10/12/2020,Sandwiches,Central, 292.91 
+18/12/2020,Pizza,East, 386.62 
+10/12/2020,Tomatoes,North, 244.73 
+05/12/2020,Sandwiches,Central, 104.87 
+21/12/2020,Broccoli,Central, 345.20 
+28/12/2020,Cucumber,South West, 32.36 
+09/12/2020,Sandwiches,East, 393.83 
+29/12/2020,Green Tea,East, 98.41 
+01/12/2020,Chicken,East, 392.14 
+13/12/2020,Orange Juice,East, 37.94 
+10/12/2020,Tomatoes,Central, 91.78 
+27/12/2020,Pizza,East, 235.99 
+20/12/2020,Sandwiches,North, 67.23 
+28/12/2020,Cucumber,East, 266.09 
+14/12/2020,Pizza,East, 343.37 
+30/12/2020,Tomatoes,South West, 116.36 
+04/12/2020,Beef,South West, 365.14 
+04/12/2020,Green Tea,South West, 348.80 
+18/12/2020,Green Tea,East, 357.36 
+07/12/2020,Tomatoes,North, 29.24 
+23/12/2020,Green Tea,Central, 81.90 
+09/12/2020,Broccoli,East, 195.97 
+20/12/2020,Beef,East, 132.59 
+14/12/2020,Orange Juice,South, 176.74 
+08/12/2020,Orange Juice,North, 391.02 
+25/12/2020,Beef,South West, 370.72 
+25/12/2020,Broccoli,East, 320.06 
+08/12/2020,Chicken,South West, 155.84 
+29/12/2020,Broccoli,North, 49.63 
+13/12/2020,Pizza,Central, 318.29 
+02/12/2020,Green Tea,Central, 268.22 
+02/12/2020,Cucumber,Central, 221.11 
+15/12/2020,Broccoli,South, 326.17 
+11/12/2020,Broccoli,South West, 322.58 
+22/12/2020,Cucumber,East, 17.86 
+31/12/2020,Green Tea,North, 301.67 
+28/12/2020,Green Tea,Central, 272.29 
+29/12/2020,Orange Juice,South West, 98.40 
+28/12/2020,Beef,South, 90.84 
+14/12/2020,Pizza,Central, 280.30 
+08/12/2020,Broccoli,South, 171.66 
+19/12/2020,Broccoli,Central, 111.84 
+10/12/2020,Cucumber,South West, 81.76 
+12/12/2020,Orange Juice,North, 391.50 
+14/12/2020,Orange Juice,Central, 229.28 
+19/12/2020,Pizza,Central, 40.40 
+16/12/2020,Tomatoes,North, 59.58 
+27/12/2020,Pizza,South West, 346.18 
+18/12/2020,Cucumber,South West, 365.66 
+20/12/2020,Cucumber,Central, 378.58 
+12/12/2020,Pizza,Central, 274.88 
+13/12/2020,Tomatoes,South West, 332.76 
+01/12/2020,Cucumber,South, 307.11 
+19/12/2020,Cucumber,North, 240.38 
+19/12/2020,Orange Juice,South West, 40.84 
+18/12/2020,Broccoli,North, 83.51 
+14/12/2020,Pizza,North, 75.32 
+02/12/2020,Green Tea,North, 226.01 
+10/12/2020,Cucumber,Central, 115.08 
+11/12/2020,Cucumber,South West, 317.36 
+22/12/2020,Broccoli,North, 212.99 
+26/12/2020,Green Tea,South West, 33.50 
+08/12/2020,Chicken,South, 234.44 
+12/12/2020,Chicken,East, 152.26 
+29/12/2020,Pizza,South West, 147.62 
+11/12/2020,Beef,East, 367.66 
+04/12/2020,Beef,Central, 11.60 
+18/12/2020,Green Tea,East, 368.92 
+31/12/2020,Broccoli,South West, 289.74 
+31/12/2020,Beef,North, 331.30 
+19/12/2020,Broccoli,South West, 309.30 
+05/12/2020,Beef,South, 239.47 
+09/12/2020,Cucumber,South, 232.13 
+27/12/2020,Beef,South, 121.56 
+18/12/2020,Tomatoes,East, 309.44 
+08/12/2020,Green Tea,Central, 265.05 
+29/12/2020,Tomatoes,East, 359.18 
+09/12/2020,Chicken,East, 167.50 
+12/12/2020,Green Tea,Central, 252.70 
+02/12/2020,Orange Juice,East, 16.79 
+10/12/2020,Green Tea,East, 98.94 
+11/12/2020,Beef,East, 327.05 
+22/12/2020,Broccoli,East, 233.43 
+08/12/2020,Beef,South West, 186.13 
+27/12/2020,Green Tea,Central, 66.07 
+12/12/2020,Pizza,East, 47.35 
+26/12/2020,Pizza,Central, 144.55 
+09/12/2020,Chicken,East, 173.73 
+07/12/2020,Green Tea,Central, 139.31 
+28/12/2020,Green Tea,South West, 251.55 
+31/12/2020,Broccoli,East, 147.62 
+22/12/2020,Tomatoes,North, 290.48 
+18/12/2020,Beef,East, 362.49 
+28/12/2020,Pizza,North, 113.66 
+23/12/2020,Beef,North, 139.82 
+10/12/2020,Broccoli,Central, 321.17 
+15/12/2020,Chicken,East, 260.72 
+26/12/2020,Tomatoes,South West, 132.80 
+06/12/2020,Pizza,South, 163.94 
+11/12/2020,Chicken,South West, 324.10 
+21/12/2020,Green Tea,Central, 56.78 
+07/12/2020,Tomatoes,South, 247.72 
+20/12/2020,Green Tea,Central, 237.94 
+11/12/2020,Beef,North, 195.18 
+31/12/2020,Cucumber,South West, 180.33 
+02/12/2020,Pizza,South, 36.45 
+16/12/2020,Green Tea,South, 206.41 
+17/12/2020,Orange Juice,Central, 200.38 
+08/12/2020,Orange Juice,South, 398.19 
+29/12/2020,Beef,South West, 257.83 
+19/12/2020,Beef,South, 162.39 
+17/12/2020,Beef,North, 225.29 
+22/12/2020,Cucumber,East, 87.63 
+06/12/2020,Chicken,East, 234.14 
+08/12/2020,Broccoli,South West, 17.15 
+30/12/2020,Cucumber,South, 245.94 
+18/12/2020,Beef,North, 186.45 
+10/12/2020,Green Tea,East, 375.73 
+28/12/2020,Broccoli,South West, 208.01 
+14/12/2020,Cucumber,Central, 248.74 
+25/12/2020,Tomatoes,East, 364.34 
+05/12/2020,Green Tea,Central, 38.66 
+28/12/2020,Green Tea,North, 102.77 
+19/12/2020,Sandwiches,Central, 203.65 
+01/12/2020,Pizza,East, 78.55 
+29/12/2020,Chicken,East, 294.61 
+25/12/2020,Broccoli,South West, 397.85 
+05/12/2020,Green Tea,South, 134.84 
+16/12/2020,Chicken,South West, 294.05 
+19/12/2020,Green Tea,South, 275.67 
+10/12/2020,Beef,South West, 257.16 
+10/12/2020,Beef,South West, 223.24 
+05/12/2020,Cucumber,Central, 182.37 
+10/12/2020,Tomatoes,South West, 203.41 
+19/12/2020,Orange Juice,North, 49.95 
+22/12/2020,Beef,Central, 355.03 
+07/12/2020,Tomatoes,North, 151.27 
+10/12/2020,Sandwiches,North, 209.11 
+16/12/2020,Tomatoes,South West, 306.10 
+21/12/2020,Chicken,South, 343.57 
+01/12/2020,Tomatoes,South, 186.83 
+30/12/2020,Broccoli,South West, 301.72 
+17/12/2020,Green Tea,South, 52.00 
+11/12/2020,Beef,North, 88.28 
+29/12/2020,Tomatoes,South West, 101.27 
+11/12/2020,Cucumber,East, 217.45 
+01/12/2020,Cucumber,South West, 180.89 
+09/12/2020,Tomatoes,Central, 94.13 
+31/12/2020,Cucumber,East, 308.78 
+08/12/2020,Pizza,North, 244.71 
+19/12/2020,Pizza,East, 300.68 
+26/12/2020,Broccoli,Central, 163.41 
+10/12/2020,Orange Juice,Central, 83.16 
+27/12/2020,Green Tea,North, 104.64 
+15/12/2020,Cucumber,East, 83.17 
+08/12/2020,Green Tea,North, 176.05 
+22/12/2020,Orange Juice,South, 263.95 
+24/12/2020,Beef,South, 365.86 
+23/12/2020,Beef,Central, 114.76 
+21/12/2020,Broccoli,South West, 94.34 
+03/12/2020,Pizza,East, 54.06 
+24/12/2020,Sandwiches,South West, 208.57 
+31/12/2020,Tomatoes,North, 81.86 
+05/12/2020,Green Tea,South West, 14.66 
+07/12/2020,Chicken,East, 243.71 
+27/12/2020,Orange Juice,North, 304.18 
+29/12/2020,Green Tea,North, 224.67 
+20/12/2020,Broccoli,South, 47.75 
+25/12/2020,Broccoli,Central, 144.46 
+03/12/2020,Chicken,Central, 360.57 
+23/12/2020,Sandwiches,South, 201.14 
+17/12/2020,Sandwiches,South,18.6
+22/12/2020,Sandwiches,North,159.69
+09/12/2020,Sandwiches,North,103.87
+04/12/2020,Beef,East,79.09
+12/12/2020,Orange Juice,North,35.97
+12/12/2020,Tomatoes,South,150.77
+18/12/2020,Tomatoes,South West,32.03
+28/12/2020,Green Tea,North,271.06
+17/12/2020,Green Tea,South,332.95
+10/12/2020,Pizza,South West,23.75
+21/12/2020,Green Tea,Central,372.36
+16/12/2020,Chicken,North,367.35
+31/12/2020,Tomatoes,East,297.8
+01/12/2020,Beef,South West,391.67
+23/12/2020,Chicken,Central,46.21
+05/12/2020,Chicken,Central,389.52
+27/12/2020,Green Tea,East,213.96
+07/12/2020,Sandwiches,South West,77.45
+29/12/2020,Sandwiches,South West,150.95
+20/12/2020,Beef,North,314.58
+19/12/2020,Broccoli,East,187.57
+27/12/2020,Chicken,South West,95.06
+13/12/2020,Chicken,Central,58.67
+07/12/2020,Orange Juice,East,31.62
+17/12/2020,Tomatoes,South,26.47
+27/12/2020,Orange Juice,South,102.94
+04/12/2020,Beef,East,246.53
+18/12/2020,Pizza,South,367.9
+03/12/2020,Chicken,Central,268.88
+19/12/2020,Broccoli,North,50.36
+22/12/2020,Cucumber,East,154.33
+04/12/2020,Beef,South West,13.26
+19/12/2020,Sandwiches,East,321.64
+31/12/2020,Beef,North,21.85
+18/12/2020,Cucumber,South,35.27
+30/12/2020,Orange Juice,East,98.74
+21/12/2020,Green Tea,North,26.3
+30/12/2020,Tomatoes,Central,163.13
+13/12/2020,Orange Juice,Central,307.18
+13/12/2020,Pizza,South,56.27
+24/12/2020,Beef,North,326.9
+05/12/2020,Green Tea,North,161.92
+20/12/2020,Tomatoes,Central,10.51
+30/12/2020,Orange Juice,South,187.83
+22/12/2020,Beef,North,313.74
+24/12/2020,Green Tea,South,220.73
+17/12/2020,Broccoli,East,342.69
+04/12/2020,Green Tea,Central,84.96
+09/12/2020,Beef,East,375.32
+25/12/2020,Broccoli,South West,152.66
+20/12/2020,Pizza,South West,329.53
+14/12/2020,Pizza,North,393.97
+28/12/2020,Orange Juice,East,400.71
+20/12/2020,Chicken,Central,130.5
+20/12/2020,Beef,East,154.72
+13/12/2020,Broccoli,South,170.6
+16/12/2020,Pizza,Central,97.98
+16/12/2020,Cucumber,Central,60.35
+23/12/2020,Beef,South West,318.23
+22/12/2020,Tomatoes,North,389.44
+20/12/2020,Chicken,South West,242.89
+26/12/2020,Beef,South West,308.84
+13/12/2020,Green Tea,Central,369.83
+31/12/2020,Green Tea,North,187.76
+04/12/2020,Pizza,North,77.4
+20/12/2020,Broccoli,Central,143.42
+23/12/2020,Tomatoes,East,26.12
+03/12/2020,Broccoli,South,253.88
+15/12/2020,Sandwiches,South,350.88
+17/12/2020,Tomatoes,South,70.11
+23/12/2020,Chicken,North,357.86
+15/12/2020,Tomatoes,Central,103.97
+19/12/2020,Sandwiches,North,341.55
+14/12/2020,Chicken,East,29.77
+12/12/2020,Green Tea,East,190.32
+23/12/2020,Orange Juice,South,141.56
+13/12/2020,Broccoli,South West,250.29
+07/12/2020,Orange Juice,South West,19.48
+22/12/2020,Beef,East,264.07
+05/12/2020,Tomatoes,East,212.62
+13/12/2020,Pizza,North,95.51
+18/12/2020,Tomatoes,North,139.88
+26/12/2020,Pizza,East,306.83
+10/12/2020,Sandwiches,East,383.36
+16/12/2020,Broccoli,South,332.12
+07/12/2020,Chicken,North,166.79
+25/12/2020,Orange Juice,South West,190.16
+31/12/2020,Beef,Central,287.74
+11/12/2020,Green Tea,Central,20.47
+01/12/2020,Chicken,South West,340.44
+16/12/2020,Tomatoes,South West,333
+16/12/2020,Chicken,South West,327.33
+26/12/2020,Pizza,Central,43.5
+10/12/2020,Chicken,North,338.76
+05/12/2020,Pizza,East,249.69
+09/12/2020,Cucumber,North,98.47
+03/12/2020,Pizza,South West,30.31
+30/12/2020,Cucumber,South,191.87
+11/12/2020,Sandwiches,South West,69.13
+04/12/2020,Beef,South West,110.36
+20/12/2020,Sandwiches,North,69.66
+17/12/2020,Broccoli,South West,177.38
+11/12/2020,Chicken,East,96.97
+30/12/2020,Pizza,Central,207.64
+12/12/2020,Tomatoes,North,321.25
+08/12/2020,Broccoli,North,82.16
+24/12/2020,Cucumber,South,174.92
+19/12/2020,Cucumber,South West,134.45
+27/12/2020,Broccoli,South West,376.63
+19/12/2020,Pizza,South West,320.54
+08/12/2020,Pizza,Central,141.53
+11/12/2020,Pizza,East,47.77
+16/12/2020,Green Tea,Central,371.11
+03/12/2020,Tomatoes,South West,213.92
+27/12/2020,Beef,Central,354.78
+24/12/2020,Chicken,East,182.71
+14/12/2020,Chicken,East,190.92
+02/12/2020,Beef,Central,172.95
+18/12/2020,Tomatoes,South West,77.02
+14/12/2020,Broccoli,East,275.67
+23/12/2020,Beef,North,143.19
+13/12/2020,Sandwiches,East,285.76
+17/12/2020,Chicken,South,233.62
+01/12/2020,Cucumber,Central,161.62
+25/12/2020,Orange Juice,Central,348.1
+08/12/2020,Beef,South West,57.75
+23/12/2020,Broccoli,East,191.65
+12/12/2020,Cucumber,South,290.52
+03/12/2020,Tomatoes,South West,269.7
+11/12/2020,Cucumber,East,142.09
+07/12/2020,Broccoli,Central,121.51
+10/12/2020,Broccoli,South West,158.55
+12/12/2020,Orange Juice,South,233.69
+31/12/2020,Broccoli,South West,208.66
+01/12/2020,Broccoli,North,77.35
+07/12/2020,Tomatoes,Central,93.67
+16/12/2020,Cucumber,South West,56.9
+14/12/2020,Sandwiches,North,53.28
+11/12/2020,Orange Juice,North,156.6
+09/12/2020,Tomatoes,East,361.91
+05/12/2020,Chicken,South,265.15
+27/12/2020,Broccoli,South,360.35
+26/12/2020,Broccoli,East,148.44
+09/12/2020,Sandwiches,South,190.01
+02/12/2020,Cucumber,Central,359.61
+15/12/2020,Beef,North,152.31
+14/12/2020,Beef,Central,107.31
+06/12/2020,Pizza,South West,341.18
+08/12/2020,Tomatoes,South,251.62
+26/12/2020,Tomatoes,North,46.98
+18/12/2020,Tomatoes,East,184.42
+10/12/2020,Beef,South West,179.86
+17/12/2020,Green Tea,Central,118.33
+19/12/2020,Pizza,North,217.07
+16/12/2020,Cucumber,South West,104.24
+27/12/2020,Pizza,Central,399.36
+10/12/2020,Pizza,South West,263.6
+04/12/2020,Broccoli,South,179.71
+31/12/2020,Cucumber,South West,227.55
+09/12/2020,Cucumber,East,171.5
+05/12/2020,Orange Juice,East,262.8
+15/12/2020,Chicken,South West,48.87
+28/12/2020,Orange Juice,South,37.97
+08/12/2020,Broccoli,South West,23.96
+21/12/2020,Chicken,South,273.33
+24/12/2020,Orange Juice,Central,26.5
+28/12/2020,Cucumber,North,324.12
+04/12/2020,Chicken,East,375.35
+21/12/2020,Pizza,North,323.19
+28/12/2020,Beef,South,19.37
+20/12/2020,Tomatoes,North,292.24
+19/12/2020,Green Tea,Central,284.45
+24/12/2020,Chicken,South West,264.02
+25/12/2020,Orange Juice,South West,215.65
+13/12/2020,Chicken,East,164.1
+06/12/2020,Beef,South West,53.53
+12/12/2020,Orange Juice,North,297.46
+19/12/2020,Cucumber,South,243.06
+15/12/2020,Broccoli,North,328.27
+10/12/2020,Beef,North,158.74
+23/12/2020,Sandwiches,East,211.62
+15/12/2020,Chicken,South,371.31
+09/12/2020,Sandwiches,South West,12.14
+24/12/2020,Sandwiches,Central,227.1
+17/12/2020,Sandwiches,Central,30.92
+19/12/2020,Beef,Central,312.68
+05/12/2020,Broccoli,South,253.82
+29/12/2020,Sandwiches,North,162.6
+12/12/2020,Pizza,South West,395.24
+24/12/2020,Sandwiches,South,157.36
+28/12/2020,Green Tea,Central,368.29
+29/12/2020,Beef,Central,86.35
+15/12/2020,Chicken,South,389.05
+02/12/2020,Tomatoes,East,36.77
+09/12/2020,Orange Juice,North,273.12
+26/12/2020,Orange Juice,North,80.18
+26/12/2020,Green Tea,South,298.66
+21/12/2020,Broccoli,North,58.67
+26/12/2020,Sandwiches,South,110.79
+26/12/2020,Green Tea,East,309.73
+16/12/2020,Sandwiches,South,223.26
+25/12/2020,Green Tea,South West,51.8
+12/12/2020,Chicken,South West,67.97
+16/12/2020,Beef,Central,261.76
+30/12/2020,Orange Juice,East,238.51
+19/12/2020,Chicken,South,127.42
+15/12/2020,Orange Juice,North,153.83
+06/12/2020,Cucumber,South West,152.18
+24/12/2020,Broccoli,North,154.14
+31/12/2020,Chicken,South,384.31
+19/12/2020,Cucumber,North,317.35
+18/12/2020,Beef,North,320.9
+10/12/2020,Broccoli,North,12.56
+26/12/2020,Broccoli,East,272.8
+12/12/2020,Chicken,Central,118.71
+19/12/2020,Sandwiches,South West,254.76
+02/12/2020,Cucumber,East,242.06
+09/12/2020,Tomatoes,North,321.12
+29/12/2020,Broccoli,South West,153.03
+13/12/2020,Pizza,Central,182.72
+20/12/2020,Orange Juice,South West,304.12
+06/12/2020,Cucumber,South,337.55
+08/12/2020,Sandwiches,South,361.38
+23/12/2020,Chicken,East,344.69
+12/12/2020,Green Tea,Central,225.46
+29/12/2020,Green Tea,East,20.08
+18/12/2020,Cucumber,South,88.43
+11/12/2020,Beef,South West,251.59
+09/12/2020,Pizza,South,190.32
+12/12/2020,Broccoli,Central,170.29
+21/12/2020,Chicken,East,323.21
+14/12/2020,Beef,North,130.44
+10/12/2020,Pizza,North,273.72
+09/12/2020,Green Tea,South West,363.91
+16/12/2020,Cucumber,South West,150.35
+13/12/2020,Chicken,North,21.11
+09/12/2020,Beef,East,26.35
+12/12/2020,Sandwiches,South,124.26
+01/12/2020,Chicken,South,313.43
+27/12/2020,Cucumber,East,372.01
+15/12/2020,Cucumber,Central,277.3
+06/12/2020,Beef,South West,142.38
+13/12/2020,Beef,North,252.99
+09/12/2020,Chicken,South West,316.38
+08/12/2020,Orange Juice,Central,40.13
+30/12/2020,Broccoli,North,305.24
+15/12/2020,Pizza,East,175.36
+25/12/2020,Chicken,North,159.96
+28/12/2020,Tomatoes,East,204.75
+20/12/2020,Sandwiches,South West,389.88
+27/12/2020,Sandwiches,East,96.65
+24/12/2020,Orange Juice,North,360.69
+29/12/2020,Sandwiches,South West,137.28
+31/12/2020,Tomatoes,South,79.56
+30/12/2020,Tomatoes,East,281.05
+16/12/2020,Broccoli,South West,215.94
+26/12/2020,Tomatoes,South West,30.3
+05/12/2020,Cucumber,South,243.48
+16/12/2020,Beef,South,139.1
+29/12/2020,Green Tea,North,15.94
+06/12/2020,Tomatoes,North,116.01
+30/12/2020,Tomatoes,South West,290.94
+20/12/2020,Chicken,East,68.91
+01/12/2020,Sandwiches,South West,377.05
+23/12/2020,Chicken,South,384.04
+22/12/2020,Pizza,East,211.67
+07/12/2020,Chicken,South West,396.12
+31/12/2020,Beef,North,54.93
+24/12/2020,Chicken,South West,68.24
+31/12/2020,Sandwiches,North,385.7
+26/12/2020,Green Tea,Central,24.63
+09/12/2020,Tomatoes,South,124.88
+03/12/2020,Pizza,North,347.5
+07/12/2020,Tomatoes,South West,67.15
+13/12/2020,Pizza,Central,367.89
+08/12/2020,Orange Juice,South,194.15
+18/12/2020,Orange Juice,East,146.04
+22/12/2020,Broccoli,South,166.81
+27/12/2020,Sandwiches,East,179.44
+24/12/2020,Beef,North,15.61
+06/12/2020,Chicken,Central,179.82
+04/12/2020,Pizza,South,174.4
+07/12/2020,Orange Juice,Central,303.76
+31/12/2020,Pizza,South,112.7
+16/12/2020,Pizza,Central,193.82
+29/12/2020,Tomatoes,North,158.15
+01/12/2020,Tomatoes,North,98.48
+16/12/2020,Orange Juice,Central,196.05
+14/12/2020,Beef,South,280.55
+31/12/2020,Green Tea,South,394.99
+09/12/2020,Beef,South,21.11
+26/12/2020,Cucumber,Central,42.69
+14/12/2020,Chicken,North,55.86
+08/12/2020,Pizza,South West,285.78
